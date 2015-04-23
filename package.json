@@ -1,0 +1,35 @@
+{
+  "name": "angular-filter-limit",
+  "version": "0.1.0",
+  "description": "A better AngularJS filter for limiting items. Work with strings, arrays and objects.",
+  "main": "dist/angular-filter-limit.min.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexborisov/angular-filter-limit"
+  },
+  "keywords": [
+    "angular",
+    "angularjs",
+    "filter",
+    "limit",
+    "limitTo",
+    "string",
+    "array",
+    "object"
+  ],
+  "author": "Alex Borisov <alex@alexborisov.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexborisov/angular-filter-limit/issues"
+  },
+  "homepage": "https://github.com/alexborisov/angular-filter-limit",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-uglify": "^0.9.1"
+  }
+}

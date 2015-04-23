@@ -1,0 +1,28 @@
+{
+  "name": "angular-filter-limit",
+  "version": "0.1.0",
+  "authors": [
+    "Alex Borisov <alex.borisov@flyvictor.com>"
+  ],
+  "description": "A better AngularJS filter for limiting items. Works with strings, rrays and objects",
+  "main": "dist/angular-filter-limit.min.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "filter",
+    "limit",
+    "limitTo",
+    "string",
+    "array",
+    "object"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alexborisov/angular-filter-limit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
