@@ -1,7 +1,7 @@
 {
   "name": "angular-filter-limit",
   "version": "0.1.0",
-  "description": "A better AngularJS filter for limiting items. Work with strings, arrays and objects.",
+  "description": "A better AngularJS filter for limiting items. Works with strings, arrays and objects.",
   "main": "dist/angular-filter-limit.min.js",
   "scripts": {
     "test": "npm test"
